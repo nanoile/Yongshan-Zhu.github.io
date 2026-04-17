@@ -53,8 +53,6 @@ Startup
 #dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
 ## Unordered Lists (Nested)
 
@@ -105,7 +103,7 @@ Make any link standout more when applying the `.btn` class.
 
 ### Anchor Tag (aka. Link)
 
-This is an example of a [link](https://github.com "GitHub").
+This is an example of a [link](http://github.com "Github").
 
 ### Abbreviation Tag
 
