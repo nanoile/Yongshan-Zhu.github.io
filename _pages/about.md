@@ -209,8 +209,7 @@ redirect_from:
 
 I am an undergraduate (2023-2027) at Xidian University, focusing on Computer Vision and MLLM.
 
-I work at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
-Previously I worked at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
+Currently, I am a Research Assistant at the Institute of Embedded Computing Technology (School of Computer Science and Technology, Xidian University), where I am fortunate to be advised by Prof. Di Wang and mentored by Ke Li.
 
 Currently I conduct the VLA research at [ByteDance Seed](https://seed.bytedance.com/en/).
 
