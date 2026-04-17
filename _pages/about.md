@@ -211,8 +211,6 @@ I am an undergraduate (2023-2027) at Xidian University, focusing on Computer Vis
 
 Currently, I am a Research Assistant at the Institute of Embedded Computing Technology (School of Computer Science and Technology, Xidian University), where I am fortunate to be advised by Prof. Di Wang and mentored by Ke Li.
 
-Currently I conduct the VLA research at [ByteDance Seed](https://seed.bytedance.com/en/).
-
 News
 ---------------
 - *[DSPv2](https://selen-suyue.github.io/DSPv2Net) and [MBA](https://selen-suyue.github.io/MBApage) are accepted in ICRA 2026 &#128293;*
