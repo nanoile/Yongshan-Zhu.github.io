@@ -211,14 +211,6 @@ I am an undergraduate (2023-2027) at Xidian University, focusing on Computer Vis
 
 Currently, I am a Research Assistant at the Institute of Embedded Computing Technology (School of Computer Science and Technology, Xidian University), where I am fortunate to be advised by Prof. Di Wang and mentored by Ke Li.
 
-News
----------------
-- *[DSPv2](https://selen-suyue.github.io/DSPv2Net) and [MBA](https://selen-suyue.github.io/MBApage) are accepted in ICRA 2026 &#128293;*
-- *[Dense Policy](https://selen-suyue.github.io/DspNet) is accepted in ICCV 2025 &#128293;*
-- *[MBA](https://selen-suyue.github.io/MBApage) is accepted in IEEE RA-L 2025 &#128293;*
-- *Our work [Advdisplay]() was accepted at AAAI 2025 &#128293;*
-- *In charge of [Microsoft Club](https://github.com/MSC-XDU). Feel free to reach out if you'd like to join.*
-
 Experience
 --------------
 <div class="experience-container">
