@@ -1,3 +1,4 @@
+# 顶部导航：删条目 = 隐藏对应页面链接；url 与 _pages/ 下文件名对应。
 # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
