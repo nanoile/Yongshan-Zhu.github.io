@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Selen Su / Homepage"
+title                    : "Yongshan Zhu / Homepage"
 title_separator          : "-"
-name                     : Selen
+name                     : Yongshan Zhu
 description              : &description "personal description"
 url                      : "https://nanoile.github.io"
 baseurl                  : "/Yongshan-Zhu.github.io"
@@ -22,7 +22,7 @@ repository               : "nanoile/Yongshan-Zhu.github.io"
 author:
   # Biographic information
   avatar           : "selen.png"
-  name             : "Yue Su 苏悦"
+  name             : "Yongshan Zhu 朱永山"
   pronouns         : "He/Him"  
   bio              : "重剑无锋, 大巧不工"
   location         : 
